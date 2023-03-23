@@ -1,3 +1,5 @@
+package homework_week_6;
+
 import java.util.Scanner;
 
 /*Write a Java program that takes a number as input and prints its

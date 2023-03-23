@@ -1,3 +1,5 @@
+package homework_week_6;
+
 /**
  * Write a Java programme using the following steps.
  * 3.1 Declare one instance and one static variable.

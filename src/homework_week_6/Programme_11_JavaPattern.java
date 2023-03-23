@@ -1,3 +1,5 @@
+package homework_week_6;
+
 /* Write a Java program to display the following pattern.
 * Sample Pattern :
 J a v v a
